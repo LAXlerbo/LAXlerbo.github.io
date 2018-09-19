@@ -1,44 +1,21 @@
 ---
-title: Second a 
-tags: [android,kotlin]
+title: 中国知网(账号分享)
+tags: [知网,免费账号]
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-<!-- more -->
+[中国知网](http://www.cnki.net/)
+中国知网是国家知识基础设施（National Knowledge Infrastructure，NKI）的概念，由世界银行于1998年提出。CNKI工程是以实现全社会知识资源传播共享与增值利用为目标的信息化建设项目，由清华大学、清华同方发起，始建于1999年6月中国知网是全球领先的数字出版平台，是一家致力于为海内外各行各业提供知识与情报服务的专业网站。目前中国知网服务的读者超过4000万，中心网站及镜像站点年文献下量突破30亿次，是全球倍受推崇的知识服务品牌。
 
 <!-- more -->
 
 ## Quick Start
 
-### Create a new post
+### 使用说明
+
+* 点击登入这个网址：[http://61.178.127.9:8080/rewriter/CNKI/http/0Z9Z9Z912Z/kns55/](http://61.178.127.9:8080/rewriter/CNKI/http/0Z9Z9Z912Z/kns55/)
+* 输入下面的账号密码即可
 
 ``` bash
-$ hexo new "My New Post"
+账号：bylib
+密码：bylib
 ```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
